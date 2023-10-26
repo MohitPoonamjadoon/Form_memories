@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply styles to the body for background and font */
+body {
+    font-family: Arial, sans-serif;
+    background: url('woman-holding-flowers-at-a-funeral.webp') no-repeat center center fixed;
+    background-size: contain;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Style the form container */
+.container {
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 95%; /* Adjust the width as needed */
+    max-width: 600px; /* Adjust the max-width as needed */
+    opacity: 0.9;
+}
+
+/* Style labels */
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Style input and select elements */
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: 'Your-Attractive-Font', cursive; /* Replace with your desired font */
+    font-size: 16px;
+}
+
+/* Style radio buttons */
+.gender {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Style submit button */
+button {
+    width: 100%;
+    margin-top: 10px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+/* Style labels */
+label {
+    width: 45%; /* Adjust the label width as needed */
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Style input elements */
+input, textarea {
+    width: 50%; /* Adjust the input element width as needed */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: 'Your-Attractive-Font', cursive; /* Replace with your desired font */
+    font-size: 16px;
+}
+
+/* Style radio buttons and select elements as needed */
+
+/* Style submit button */
+button {
+    width: 100%;
+    margin-top: 10px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+/* Style labels */
+label {
+    width: 45%;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Style input elements and select elements */
+input, textarea, select {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: 'Your-Attractive-Font', cursive;
+    font-size: 16px;
+}
+
+/* Style submit button */
+button {
+    width: 100%;
+    margin-top: 20px; /* Adjust the margin as needed */
+    padding: 15px 20px; /* Adjust the padding to increase the button's thickness */
+    border: none;
+    border-radius: 10px;
+    background-color: #007BFF; /* Change the background color as needed */
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 95%; /* Adjust the width as needed */
+    max-width: 800px; /* Adjust the max-width as needed */
+    margin-top: 50px;
+}
+
+/* Adjust the input element width */
+input, textarea, select {
+    width: 70%; /* Adjust the input element width as needed */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: 'Your-Attractive-Font', cursive;
+    font-size: 16px;
+}
+#full-name {
+    margin-top: 20px; /* Adjust the margin as needed */
+}
